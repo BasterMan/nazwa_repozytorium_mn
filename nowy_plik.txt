@@ -1,1 +1,1 @@
-"Nowy plik z testową zawartością." 
+"Nowa funkcjonalność!" 
